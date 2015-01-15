@@ -13,7 +13,7 @@ Ex. 0100-001 → 100-1
 
 PowerShellスクリプトです。セキュリティ設定で署名無しのスクリプトを実行可能なように設定をしておいてください。
 
-適当なディレクトリにChian-Zero-Padding.ps1を置き、Chian-Zero-Padding.ps1を読み込みます
+適当なディレクトリにChian-Zero-Erase.ps1を置き、Chian-Zero-Erase.ps1を読み込みます
 
 ```ps1
 PS> . Chian-Zero-Erase.ps1
